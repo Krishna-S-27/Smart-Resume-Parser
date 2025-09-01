@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+python-docx
+spacy
+transformers
+torch
+pandas
+python-dotenv
+requests
+PyPDF2
