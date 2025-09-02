@@ -8,7 +8,7 @@ import re
 # ─────────────────────────────────────────────
 st.set_page_config(page_title="📄 Smart Resume Parser", layout="wide")
 
-API_URL = "http://127.0.0.1:8000"  # <-- change if backend runs elsewhere
+API_URL = "https://smart-resume-parser-backend-url.onrender.com" 
 
 # ─────────────────────────────────────────────
 # JSON Cleaner
